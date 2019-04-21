@@ -44,7 +44,7 @@ authorized_keys2  id_dsa       known_hosts config            id_dsa.pub
 
 假如没有这些文件，甚至连 .ssh 目录都没有，可以用 ssh-keygen 来创建。该程序在 Linux/Mac 系统上由 SSH 包提供，而在 Windows 上则包含在 MSysGit 包里：
 
-![1555770900538](C:\Users\hairui\AppData\Roaming\Typora\typora-user-images\1555770900538.png)
+https://github.com/hairui1986sd/hello-world/blob/master/images/1555770900538.png
 
 到此为止，你本地的密钥对就生成了。
 
